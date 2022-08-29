@@ -4,7 +4,7 @@ this app is built for actually hiding files
 onPressedAddButton() function is fired when user selected the file
 and this will encrypt the file and will hide that file with randomly generated name
 
-onPressedRestoreButton() function is fired whem user selected the file for
+onPressedRestoreButton() function is fired when user selected the file for
 restoring. This function will decrypt the file and move that file with its original name
 in its original file location
 
