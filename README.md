@@ -9,8 +9,8 @@ restoring. This function will decrypt the file and move that file with its origi
 in its original file location
 
 # the actual bug
-when user selects the file from DCIM the file is actually encrypted and all the process are
-done. but an empty placeholder pointing is shown in the gallery
+when user selects the file from DCIM folder, the file is actually encrypted and all the process are
+done. but an empty placeholder is shown in the gallery
 
 await ogFile.rename("$mainDirectory/.hmf/$tempName.hmf");
 by this  line I actually moving the file from its original place to place where hidden files are
